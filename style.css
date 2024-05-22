@@ -1,0 +1,30 @@
+body,
+html {
+  height: 100%;
+  margin: 0 auto;
+  letter-spacing: 2px;
+  font-size: 10px;
+}
+
+div {
+  box-sizing: border-box;
+  color: #FFF;
+  font-size: 5rem;
+  font-weight:bolder;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 5%;
+}
+.bg {
+  background-image: url('https://images.pexels.com/photos/2277978/pexels-photo-2277978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.box {
+  background-color:	#9D9D9D;
+}
